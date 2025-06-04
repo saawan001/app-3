@@ -1,0 +1,3 @@
+[submodule "multipleBuild"]
+	path = multipleBuild
+	url = https://github.com/saawan001/multipleBuild.git
